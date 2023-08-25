@@ -1,0 +1,4 @@
+"genes" "cell_type"
+"1" "TPM2" "Plasmacytoid Dendritic cells"
+"2" "GPM6B" "Plasmacytoid Dendritic cells"
+"3" "FCGR2B" "Mast cells"

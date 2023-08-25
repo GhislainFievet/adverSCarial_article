@@ -1,0 +1,6 @@
+"genes" "cell_type"
+"1" "NKG7" "Naive CD8+ T cells"
+"2" "CD8A" "Natural killer  cells"
+"3" "CD3E" "Natural killer  cells"
+"4" "CD3D" "Natural killer  cells"
+"5" "GZMA" "Naive CD8+ T cells"

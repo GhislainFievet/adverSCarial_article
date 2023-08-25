@@ -1,0 +1,3 @@
+"genes" "cell_type"
+"1" "FCGR2B" "Mast cells"
+"2" "IL2RA" "Mast cells"

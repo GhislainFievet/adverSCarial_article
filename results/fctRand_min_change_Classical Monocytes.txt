@@ -1,0 +1,7 @@
+"genes" "cell_type"
+"1" "MMP9" "Neutrophils"
+"2" "NCAM1" "Neutrophils"
+"3" "KRT18" "Cancer cells"
+"4" "ELANE" "Neutrophils"
+"5" "GATA2" "Basophils"
+"6" "ICAM1" "Endothelial"

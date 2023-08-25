@@ -1,0 +1,3 @@
+"genes" "cell_type"
+"1" "CD8A" "CD8+ NKT-like cells"
+"2" "CD3G" "CD8+ NKT-like cells"

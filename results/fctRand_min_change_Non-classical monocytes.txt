@@ -1,0 +1,2 @@
+"genes" "cell_type"
+"1" "FCGR1A" "Macrophages"

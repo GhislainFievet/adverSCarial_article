@@ -1,0 +1,6 @@
+"genes" "cell_type"
+"1" "CD163" "Macrophages"
+"2" "KRT18" "Cancer cells"
+"3" "FCGR1A" "Macrophages"
+"4" "ICAM1" "Endothelial"
+"5" "FCGR2B" "Macrophages"
